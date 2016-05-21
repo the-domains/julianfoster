@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[JulianFoster]]></title>
         <description><![CDATA[JulianFoster]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/julianfoster/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 21 May 2016 18:56:01 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 21 May 2016 19:00:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/julianfoster/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b963b70-6a10-4051-b585-18fb9e7b3c83.jpg">]]></description>
+            <link>https://thegrid.ai/julianfoster/4dde0bea-6329-48d6-8aa6-a1d7a85de22b/index.html</link>
+            <guid isPermaLink="false">4dde0bea-6329-48d6-8aa6-a1d7a85de22b</guid>
+            <pubDate>Sat, 21 May 2016 19:00:02 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f06db4ff-3099-4a03-8caa-33eb5c92885a.jpg">]]></description>
-            <link>undefinedbc60adad-8c6d-4138-a68f-136c2de0bfe7/index.html</link>
+            <link>https://thegrid.ai/julianfoster/bc60adad-8c6d-4138-a68f-136c2de0bfe7/index.html</link>
             <guid isPermaLink="false">bc60adad-8c6d-4138-a68f-136c2de0bfe7</guid>
             <pubDate>Sat, 21 May 2016 18:55:53 GMT</pubDate>
         </item>
