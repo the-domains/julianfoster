@@ -1,0 +1,14 @@
+layout_spectrum: 0.11409390601329505
+typography_spectrum: 0.2619248116388917
+color:
+  brandStrength: 0.3969629439525306
+  lightness: 0.21393320499919355
+  saturation: 0.23506816779263318
+  rhythmicContrast: 0.22032742854207754
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: JulianFoster
