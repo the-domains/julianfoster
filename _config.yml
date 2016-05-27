@@ -1,14 +1,26 @@
-layout_spectrum: 0.11409390601329505
-typography_spectrum: 0.2619248116388917
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.2350681677926332
   brandStrength: 0.3969629439525306
-  lightness: 0.21393320499919355
-  saturation: 0.23506816779263318
-  rhythmicContrast: 0.22032742854207754
+  rhythmicContrast: 0.2203274285420775
   brandColors:
     - '#36362C'
     - '#5D917D'
     - '#A8AD80'
     - '#E6D4A7'
     - '#825534'
+  lightness: 0.2139332049991935
+typography_spectrum: 0.395056
+layout_spectrum: 0.4594216
 name: JulianFoster
